@@ -1,5 +1,5 @@
 @Test  
-    public void testSize(1) {  
+    public void testSize(2) {  
         obj.add("Emma");  p
         obj.add("Ronan");  
         obj.add("Antonio");  
